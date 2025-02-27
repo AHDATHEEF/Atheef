@@ -1,0 +1,26 @@
+git clone:- git clone "links
+
+git add,modified and delete:- git add "file name"
+                              git commit -m "massege"
+                              git push origin main
+multiple add:-git add.
+
+git hub file changes change:-git pull
+main brach changes change  :-git pull origin main
+
+login file:-cd name
+previouse:-cd ..
+
+convart git file:-git init
+
+connect reposity and push file:-git remote add origin "link"
+                                git push origin master 
+                                        or
+                                git branch -m main
+serch branch:-git branch -a   
+
+open new branch:-git chekout branch name
+
+branch merge:-git merge branch name
+              git push
+              
